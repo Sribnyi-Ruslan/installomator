@@ -1,4 +1,4 @@
-f#!/bin/zsh
+#!/bin/zsh
 label="" # if no label is sent to the script, this will be used
 
 # 1Installomator
